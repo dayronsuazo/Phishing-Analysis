@@ -48,6 +48,8 @@ Using Microsoft Defender I was able to configure preventative and reactive secur
 6) Investigation Report - This provides an audit trail to show that the email was identified, investigated and defensive measures were taken to protect the organisation from this attack.
 
 ### Tools Used
+
+- Sublime Text 2 - Source code editor to open email addresses and gather artifacts.
 - URL2PNG - You simply enter in a URL, hit go, and it’ll provide you with a screenshot of what the webpage looks like.
 - URLScan also provides a screenshot, allowing us to see what the destination web page looks like
 - VirusTotal - helps detect malware and malicious content in files and URLs.
