@@ -17,7 +17,7 @@ These emails typically feature a lure email that is styled to look like it is fr
 
 **- Investigating Phishing Emails (Artifacts collection)**
 
-**1)Email**
+**1) Email**
 
 1) Sending email address
 2) Subject line
@@ -26,12 +26,12 @@ These emails typically feature a lure email that is styled to look like it is fr
 5) Reply-to Address
 6) Date & Time
 
-**2)File Artifacts**
+**2) File Artifacts**
 
 1) Attachment Name
 2) SHA256 Hash Value
 
-**3)Web Artifacts**
+**3) Web Artifacts**
 
 1) Full URLs
 2) Root Domain
