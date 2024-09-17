@@ -19,22 +19,22 @@ These emails typically feature a lure email that is styled to look like it is fr
 
 **1)Email**
 
-Sending email address
-Subject line
-Recipient Email Addresses
-Sending server IP & Reverse DNS
-Reply-to Address
-Date & Time
+1) Sending email address
+2) Subject line
+3) Recipient Email Addresses
+4) Sending server IP & Reverse DNS
+5) Reply-to Address
+6) Date & Time
 
 **2)File Artifacts**
 
-Attachment Name
-SHA256 Hash Value
+1) Attachment Name
+2) SHA256 Hash Value
 
 **3)Web Artifacts**
 
-Full URLs
-Root Domain
+1) Full URLs
+2) Root Domain
 
 **- Taking Defensive Actions**
 
