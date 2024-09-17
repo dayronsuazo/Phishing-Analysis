@@ -1,7 +1,7 @@
 # Phishing Analysis and Mitigation
 
 ## Objective
-The objective of this phishing analysis project is to identify, investigate and mitigate phishing threats by analysing suspicious emails, extracting indicators of compromise (IoCs), and providing actionable insights. I will also be using Microsoft Defender to configure threat policies that will mitigate threats such as phishing, spam, malware, attachments and links. This will improve the organisation email security defences, reduce phishing-related incidents and enhance user awareness through targeted training and preventive measures.
+The objective of this phishing analysis project is to identify, investigate and mitigate phishing threats by analysing suspicious emails, extracting indicators of compromise (IoCs), and providing actionable insights. I will also be using Microsoft Defender to configure threat policies that will mitigate threats related to spam emails, malware, attachments and links. This will improve the organisation email security defences, reduce phishing-related incidents and enhance user awareness through targeted training and preventive measures.
 
 ### Skills Learned
 
