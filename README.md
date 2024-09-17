@@ -16,6 +16,7 @@ These emails typically feature a lure email that is styled to look like it is fr
 7) Malicious file - Delivering malware via phishing, as an attachment, or as a hyperlink taking the target to a web server that is hosting malware available for download.
 
 **- Investigating Phishing Emails (Artifacts collection)**
+
 **1)Email**
 
 Sending email address
