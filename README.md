@@ -5,7 +5,7 @@ The objective of this phishing analysis project is to identify, investigate and 
 
 ### Skills Learned
 
-- Identifying and categorising types of phishing emails
+**- Identifying and categorising types of phishing emails**
 1) Recon emails - to get a response or check if mailbox is being used
 2) Spam emails which are mostly unsolicited/unwanted
 3) Credential Harvesters - These are emails that attempt to retrieve valid credentials which can potentially be used to gain access to the system. 
@@ -15,23 +15,30 @@ These emails typically feature a lure email that is styled to look like it is fr
 6) Vishing and Smishing - Targets users by phone call or text messages
 7) Malicious file - Delivering malware via phishing, as an attachment, or as a hyperlink taking the target to a web server that is hosting malware available for download.
 
-- Investigating Phishing Emails (Artifacts collection)
-1)Email
+**- Investigating Phishing Emails (Artifacts collection)**
+**1)Email**
+
 Sending email address
 Subject line
 Recipient Email Addresses
 Sending server IP & Reverse DNS
 Reply-to Address
 Date & Time
-2)File Artifacts
+
+**2)File Artifacts**
+
 Attachment Name
 SHA256 Hash Value
-3)Web Artifacts
+
+**3)Web Artifacts**
+
 Full URLs
 Root Domain
 
-- Taking Defensive Actions
+**- Taking Defensive Actions**
+
 Using Microsoft Defender I was able to configure preventative and reactive security measures to keep our organisations safe from phishing attacks.
+
 1) Marking External Emails.
 2) Spam filters covering content, rule-based, and bayesian filters
 3) Attachment filtering - Carefully deciding with management to block most obvious file types like .exe|.js|.ps and others to not disrupt business continuity.
